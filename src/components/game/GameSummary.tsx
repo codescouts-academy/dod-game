@@ -225,7 +225,7 @@ export function GameSummary({
       {/* Footer */}
       <div className="text-center mt-8 pt-6 border-t border-border">
         <p className="text-xs text-muted-foreground">
-          CodeScouts &mdash; 2026
+          CodeScouts &copy; 2026
           <br />
           Distribuida bajo licencia CC BY-SA 3.0
         </p>
